@@ -1,0 +1,3 @@
+class Request {
+  const Request();
+}
